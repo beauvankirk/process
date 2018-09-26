@@ -8,7 +8,7 @@ bug-reports:   https://github.com/haskell/process/issues
 synopsis:      Process libraries
 category:      System
 build-type:    Configure
-cabal-version: >=1.10
+cabal-version: 2.0
 description:
     This package contains libraries for dealing with system processes.
     .
