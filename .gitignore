@@ -11,7 +11,7 @@ GNUmakefile
 autom4te.cache/
 config.log
 config.status
-configure
+# configure
 dist-install/
 ghc.mk
 include/HsProcessConfig.h
