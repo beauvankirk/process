@@ -14,8 +14,8 @@ config.status
 # configure
 dist-install/
 ghc.mk
-include/HsProcessConfig.h
-include/HsProcessConfig.h.in
+# include/HsProcessConfig.h
+# include/HsProcessConfig.h.in
 tests/exitminus1
 tests/exitminus1.o
 tests/foo1.txt
